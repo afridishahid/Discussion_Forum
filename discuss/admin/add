@@ -1,0 +1,1 @@
+<td><a href="delete.php?del=<?php echo $user_id ?>"><button class="btn btn-danger">Delete</button></a></td></tr>'
